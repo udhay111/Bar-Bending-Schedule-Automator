@@ -1,6 +1,6 @@
-# Bar Bending Schedule [BBS] Estimate of Steel in Building Construction
+# [BBS] Estimate of Steel in Building Construction
 
-# Introduction to Bar Bending Schedule [BBS]
+## Introduction to Bar Bending Schedule [BBS]
 
 “BBS” The word BBS Plays a significant role in any construction of High rise buildings. BBS refers to Bar Bending Schedule. Well, What’s the use of BBS? Why we use BBS? What is BBS?
 
@@ -29,7 +29,7 @@ Father of Estimation **B.N. Datta** has given certain recommendations for the us
 
 At that time we’ve used only four bars in [columns](https://civilread.com/different-types-columns/); now we are using 12+ bars in columns based on [load analysis](https://civilread.com/different-types-of-loads/). So, the percentage of steel is increased in a column which reveals that the above-cited values are outdated. ( They are outdated “not wrong”) He wrote that book in 1950. Now we are in 2019. He gave recommendations according to the potentiality of construction at that time. Now we are constructing 200 + floors in the small area.
 
-# Bar Bending Schedule [BBS]:-
+## Bar Bending Schedule [BBS]:-
 
 Before dealing with the BBS, it’s very important to learn the basics of Bar bending schedule. The below-mentioned table is a kick-start guide for learning Bar bending schedule from scratch.
 
@@ -106,13 +106,13 @@ Therefore from (i) :- la = D/Sinθ – D/tanθ
 
 Giving different θ values as 300 , 450, 600 results different additional length la values as below.
 
-| **θ°** | **D/Sinθ** | **D/tanθ** | **$$l_{a}={{D/\sin\theta}\over{D/\cos\theta}}$$** |
-| :----: | :--------: | :--------: | :-----------------------------------------------: |
-|  30°   |  D/0.500   |  D/0.573   |                       0.27D                       |
-|  45°   |  D/0.707   |  D/1.000   |                       0.42D                       |
-|  60°   |  D/0.866   |  D/1.732   |                       0.58D                       |
-|  90°   |    D/1     |     0      |                        1D                         |
-|  135°  |  D/0.707   |    D/-1    |                       2.42D                       |
+| **θ°** | **D/Sinθ** | **D/tanθ** | ![](https://latex.codecogs.com/svg.image?l_{a}={{D/\sin\theta}\over{D/\cos\theta}}\mathbf{}) |
+| :----: | :--------: | :--------: | :----------------------------------------------------------: |
+|  30°   |  D/0.500   |  D/0.573   |                            0.27D                             |
+|  45°   |  D/0.707   |  D/1.000   |                            0.42D                             |
+|  60°   |  D/0.866   |  D/1.732   |                            0.58D                             |
+|  90°   |    D/1     |     0      |                              1D                              |
+|  135°  |  D/0.707   |    D/-1    |                            2.42D                             |
 
 The additional length is added to the total length of the bar if the bars are cranked at a certain angle.
 
@@ -170,7 +170,7 @@ Have You seen the below picture on your top floor of the building? We generally 
 
 ![Overlap Length Bar Bending Schedule](Assets/Images/Hook-Length-4.png)
 
-# Important rules while preparing Bar Bending Schedule:-
+## Important rules while preparing Bar Bending Schedule:-
 
 - The bars used in building should be grouped together for each structural unit and listed seperately for each floor.
 - Bars are listed in numerical order.
@@ -179,9 +179,124 @@ Have You seen the below picture on your top floor of the building? We generally 
 - It is essential that the bar mark reference on the label attached to a bundle of bars refers uniquely to a particular group or set of bars of defined length, size, shape and type used on the job.
 - The cutting length and bending length calculations are separately calculated and not included in the detailed list. Like I have listed the Bar Bending details in a table and calculations are done separately.
 
-# Use of Bar Bending Schedule:
+## Use of Bar Bending Schedule:
 
 - BBS helps to estimate the total quantity of steel required for the construction of building or structure. It helps to quote for tender the cost incurred by steel.
 - Finding the cutting length and bending length in reinforcement detailing improves the quality of construction and minimize the wastage of steel, makes an economic construction
 - With the help of reinforcement drawings, cutting and bending can be done at the factory and transported to the site. This increases faster construction and reduces the total construction cost.
 - For site engineers, It becomes easy to verify the cutting length and bending length of the reinforcement before placing the concrete.
+
+# BBS Plugin
+## How to Install an Excel add-in
+
+### 1. Save Add-in to Computer
+Make sure to download and save the add-in (.XLAM file) to your computer. Pick a folder that’s easy to find (ex. My Documents)
+
+### 2. Unblock the File
+
+1. After saving the file, locate the file in the Windows Explorer.
+2. **Right-click** the file and select **Properties**
+3. Make sure the box **Unblock** is checked near the bottom of **General Tab**.
+
+![unblock excel add in (xlam)](Assets/Images/unblock-excel-add-in.png)
+
+### 3. Trust the File Location
+
+In July 2016, Microsoft added a security update that requires you to add the .XLAM file location as a **Trusted Location** in order for the add-in to work.
+
+**Go to File > Options > Trust Center > Trust Center Settings… > Trusted Locations > Add New Location**
+
+   **3a. File > Options**
+
+![.xlam file](Assets/Images/2-Options.png)
+
+   **3b. Trust Center > Trust Center Settings…**
+
+![excel add in trust center settings](Assets/Images/excel-add-in-trust-center.png)
+
+   **3c. Trusted Locations > Add New Location**
+
+![xlam add new location](Assets/Images/xlam-add-new-location.png)
+
+   **3d. Add New Location: Browse to the file location containing your add-in**
+
+![trust location for excel add in](Assets/Images/trusted-location-xlam.png)
+
+**3e. Alternatively, you can move your add-in to one of the existing Trusted Locations listed in the previous step!**
+
+### 4. Make Sure the Developer Tab is Visible![vba developer ribbon](Assets/Images/vba-developer-ribbon.jpg)
+
+If you don’t see the Developer tab then follow these instructions: 
+
+## Add the Developer Ribbon to Excel
+
+By default, the **Developer Ribbon** is not visible. You will need to manually turn it on. Follow these steps to enable the **Developer Ribbon**:
+
+- Click File
+
+  ![Enable Visual Basic Editor - Developer - File](Assets/Images/vba-developer-file.png)
+
+- Click Options
+
+  ![Enable Visual Basic Editor - Developer - Options](Assets/Images/vba-developer-ribbon-options.png)
+
+- Click Customize Ribbon
+
+  , Click “Developer”
+
+   
+
+  and click OK
+
+  ![Enable Visual Basic Editor - Developer - enable](Assets/Images/vba-developer-ribbon-enable.png)
+
+Now the Developer Ribbon is Visible.
+
+### 5. Browse For File
+
+Go to **Developer > Excel Add-ins > Browse** and select your file
+
+![vba add in install](Assets/Images/vba-add-in-install-293x300.jpg)
+
+Make sure the add-in has a check mark next to it and click **OK**.
+
+**Your add-in is now installed!**
+
+### 5. Allow Programmatic Access
+
+If you install  VBA add-ins, you’ll also need to allow Programmatic Access for the add-in to work. If you don’t you may see this error message:
+
+![vba add in error](https://www.automateexcel.com/excel/wp-content/uploads/2019/06/vba-add-in-error.png)
+
+To allow access, follow this steps:
+
+In the upper-left corner of Excel, click **File > Options**. Then **Trust Center > Trust Center Settings…**.
+
+![excel macro trust center settings](https://www.automateexcel.com/excel/wp-content/uploads/2019/06/vba-trust-center-settings.png)
+
+Then click **Macro Settings** and make sure **Trust Access to the VBA project object model** is checked.
+
+![excel macro settings](https://www.automateexcel.com/excel/wp-content/uploads/2019/06/vba-macro-settings.png)
+
+## Unloading an Add-in
+
+To unload an add-in simply navigate to the Add-ins dialog box (see “Browse For File” above) and uncheck the add-in.
+
+You can also delete the .XLAM or .XLA file from your hard drive.
+
+## FAQs
+
+### What is a .XLAM File?
+
+A .XLAM file is an Excel add-in file. Excel Add-ins are hidden workbooks then open each time Excel is opened. The add-ins can contain VBA code (Macros) and other calculations that you can use when working in other workbooks.
+
+### How to Install an Excel Add-in (.xlam file)?
+
+Open the Developer Tab. Click Excel Add-ins > Browse and select your add-in file. Note: There may be additional steps you need to take to show the Developer Tab and to tell Excel to “trust” the add-in.
+
+### How to uninstall an Excel Add-in (.xlam file)?
+
+Open the Developer Tab. Click Excel Add-ins > Browse and deselect the desired add-in. Or you can delete the add-in file from your computer.
+
+
+
