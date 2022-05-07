@@ -228,7 +228,7 @@ In July 2016, Microsoft added a security update that requires you to add the .XL
 
 If you don’t see the Developer tab then follow these instructions: 
 
-## Add the Developer Ribbon to Excel
+#### Add the Developer Ribbon to Excel
 
 By default, the **Developer Ribbon** is not visible. You will need to manually turn it on. Follow these steps to enable the **Developer Ribbon**:
 
