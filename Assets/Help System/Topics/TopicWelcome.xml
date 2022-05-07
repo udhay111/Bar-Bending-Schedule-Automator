@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2022-04-30T16:00:09.704+05:30" lasteditedby="GRUS" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Welcome</title>
+  <keywords>
+    <keyword>Welcome</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1">Welcome</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="construction-super-375-250.jpg" scale="112.32%" width="421" height="281" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;">Welcome to Bar bending Scedule Automator.</para>
+  </body>
+</topic>

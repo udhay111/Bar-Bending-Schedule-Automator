@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2022-04-30T16:45:24.794+05:30" lasteditedby="GRUS" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Getting Started</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Getting Started</para>
+    </header>
+    <para styleclass="Normal">Enable macros if excel prompt</para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Macros_W0ty4TEVzkHUFupiUIkl6bPWGaTJo5Fg-WRyiaRwpEk.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal">Enable micros in Excel using trust centre </para>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#000000;">
+      <li styleclass="Normal">on Excel 2013,2016,2019,2021</li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;">&#32;<image src="Macros_1878320.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:10pt; color:#000000;">
+      <li styleclass="Normal">on Excel 2007 - 2010</li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"><image src="Macros_2357097_orig.jpg" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal"><text styleclass="Image Caption">Once these step are followed one can see Ribbon rebar schedule ribbon.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="Macros_Ribbon.png" scale="83.73%" width="1144" height="141" styleclass="Image Caption"></image></para>
+  </body>
+</topic>

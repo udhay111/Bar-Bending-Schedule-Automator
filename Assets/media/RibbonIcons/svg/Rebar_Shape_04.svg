@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1423 1423" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:16;">
+    <g transform="matrix(1,0,0,1,-5334,-3587)">
+        <g id="Rebar_Shape_04" transform="matrix(0.785937,0,0,1.15149,1377.37,3194.72)">
+            <rect x="5035.21" y="341.093" width="1809.59" height="1235.12" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="5035.21" y="341.093" width="1809.59" height="1235.12"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="Rebar_Shape_041" serif:id="Rebar_Shape_04" transform="matrix(1.27237,0,0,0.86844,-1106.61,-1230.75)">
+                    <g transform="matrix(5.55237,0,0,-5.55393,4351.2,3789.93)">
+                        <rect x="89.126" y="100.499" width="256" height="256" style="fill:white;fill-opacity:0;"/>
+                    </g>
+                    <g transform="matrix(5.55237,0,0,-5.55393,4597.2,3539.65)">
+                        <path d="M96,171.213L270.349,171.213" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:7.12px;"/>
+                    </g>
+                    <g transform="matrix(0.444402,-5.53612,-5.53456,-0.444527,5377.43,3769.86)">
+                        <path d="M208.416,61.401C208.416,68.883 211.125,76.057 215.946,81.348C220.768,86.638 227.307,89.61 234.126,89.61" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:7.12px;"/>
+                    </g>
+                    <g transform="matrix(0,-5.55393,5.55237,0,4412.79,6689.28)">
+                        <path d="M766.196,103.153L782.554,103.153" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:7.12px;"/>
+                    </g>
+                    <g transform="matrix(5.55399,0,0,5.55556,1.50801,6.31594e-13)">
+                        <text x="965.151px" y="560.572px" style="font-family:'SegoeUI', 'Segoe UI', sans-serif;font-size:60.982px;fill:rgb(255,0,0);">0<tspan x="1000.22px " y="560.572px ">4</tspan></text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

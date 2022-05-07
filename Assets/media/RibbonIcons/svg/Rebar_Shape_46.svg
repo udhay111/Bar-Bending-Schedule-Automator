@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1423 1423" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:16;">
+    <g transform="matrix(1,0,0,1,-5353,-18446)">
+        <g id="Rebar_Shape_46" transform="matrix(0.785937,0,0,1.15149,1396.35,18053.6)">
+            <rect x="5035.21" y="341.093" width="1809.59" height="1235.12" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="5035.21" y="341.093" width="1809.59" height="1235.12"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="Rebar_Shape_461" serif:id="Rebar_Shape_46" transform="matrix(1.27237,0,0,0.86844,-1605.32,-12199.8)">
+                    <g transform="matrix(5.55237,0,0,-5.55393,4724.18,16421.1)">
+                        <rect x="89.126" y="100.499" width="256" height="256" style="fill:none;"/>
+                    </g>
+                    <g transform="matrix(5.55399,0,0,5.55556,-23.892,-1134)">
+                        <text x="1023.31px" y="3034.75px" style="font-family:'SegoeUI', 'Segoe UI', sans-serif;font-size:60.982px;fill:rgb(255,0,0);">4<tspan x="1058.37px " y="3034.75px ">6</tspan></text>
+                    </g>
+                    <g transform="matrix(5.55237,0,0,5.55393,5953.99,9761.46)">
+                        <path d="M-108.105,1000.57L35.29,1000.57L99.37,956.947L99.37,885.05" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:7.12px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

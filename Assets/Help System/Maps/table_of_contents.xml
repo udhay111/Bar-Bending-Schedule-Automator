@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude" defaulttopic="page_1">
+  <topicref type="topic" id="44682077016999" build="ALL" modified="1899-12-30" icon="0" href="TopicWelcome">
+    <caption translate="true">Welcome</caption>
+  </topicref>
+  <topicref type="topic" id="446816582100858" build="ALL" modified="2022-04-30T16:31:28.775Z" icon="0" href="TopicGetting-Started">
+    <caption translate="true">Getting Started</caption>
+  </topicref>
+  <topicref type="topic" id="446808491418265" build="ALL" modified="2022-04-29T16:03:21.146Z" icon="1">
+    <caption translate="true">Document Setup</caption>
+    <topicref type="topic" id="446806949416133" build="ALL" modified="2022-04-29T18:43:02.287Z" icon="11" href="Topic01">
+      <caption translate="true">Document Header</caption>
+    </topicref>
+    <topicref type="topic" id="446807416453380" build="ALL" modified="2022-04-29T18:45:18.817Z" icon="11" href="Topic02">
+      <caption translate="true">Bar Bending Schedule Sheet</caption>
+    </topicref>
+    <topicref type="topic" id="446805034939189" build="ALL" modified="2022-04-29T18:45:30.147Z" icon="11" href="Topic03">
+      <caption translate="true">Bar Weight Sheet</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="446806280861599" build="ALL" modified="2022-04-29T16:03:21.146Z" icon="1">
+    <caption translate="true">Rebar</caption>
+    <topicref type="topic" id="446804935571858" build="ALL" modified="2022-04-29T22:38:05.321Z" icon="11" href="Topic05">
+      <caption translate="true">Bent &amp; Hook Allowance</caption>
+    </topicref>
+    <topicref type="topic" id="446805520199490" build="ALL" modified="2022-04-29T17:45:01.957Z" icon="0">
+      <caption translate="true">Rebar Shapes</caption>
+      <topicref type="topic" id="446806375344986" build="ALL" modified="2022-04-29T18:45:45.671Z" icon="11" href="Topic06">
+        <caption translate="true">Shape : 01</caption>
+      </topicref>
+      <topicref type="topic" id="446807673968811" build="ALL" modified="2022-04-29T18:45:50.767Z" icon="11" href="Topic07">
+        <caption translate="true">Shape : 02</caption>
+      </topicref>
+      <topicref type="topic" id="446806158870371" build="ALL" modified="2022-04-29T18:45:55.623Z" icon="11" href="Topic08">
+        <caption translate="true">Shape : 03</caption>
+      </topicref>
+      <topicref type="topic" id="446807933655036" build="ALL" modified="2022-04-29T18:46:00.285Z" icon="11" href="Topic09">
+        <caption translate="true">Shape : 04</caption>
+      </topicref>
+      <topicref type="topic" id="446808459962495" build="ALL" modified="1899-12-30" icon="11" href="Topic10">
+        <caption translate="true">Shape : 05</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266970" build="ALL" modified="1899-12-30" icon="11" href="Topic11">
+        <caption translate="true">Shape : 06</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266971" build="ALL" modified="1899-12-30" icon="11" href="Topic12">
+        <caption translate="true">Shape : 07</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266972" build="ALL" modified="1899-12-30" icon="11" href="Topic13">
+        <caption translate="true">Shape : 08</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266973" build="ALL" modified="1899-12-30" icon="11" href="Topic14">
+        <caption translate="true">Shape : 09</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266974" build="ALL" modified="1899-12-30" icon="11" href="Topic16">
+        <caption translate="true">Shape : 10</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266975" build="ALL" modified="1899-12-30" icon="11" href="Topic17">
+        <caption translate="true">Shape : 11</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266976" build="ALL" modified="1899-12-30" icon="11" href="Topic18">
+        <caption translate="true">Shape : 12</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266977" build="ALL" modified="1899-12-30" icon="11" href="Topic19">
+        <caption translate="true">Shape : 13</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266978" build="ALL" modified="1899-12-30" icon="11" href="Topic20">
+        <caption translate="true">Shape : 14</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266979" build="ALL" modified="1899-12-30" icon="11" href="Topic21">
+        <caption translate="true">Shape : 15</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266980" build="ALL" modified="1899-12-30" icon="11" href="Topic22">
+        <caption translate="true">Shape : 16</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266981" build="ALL" modified="1899-12-30" icon="11" href="Topic23">
+        <caption translate="true">Shape : 17</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266982" build="ALL" modified="1899-12-30" icon="11" href="Topic24">
+        <caption translate="true">Shape : 18</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266983" build="ALL" modified="1899-12-30" icon="11" href="Topic25">
+        <caption translate="true">Shape : 19</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266984" build="ALL" modified="1899-12-30" icon="11" href="Topic26">
+        <caption translate="true">Shape : 20</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266985" build="ALL" modified="1899-12-30" icon="11" href="Topic27">
+        <caption translate="true">Shape : 21</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266986" build="ALL" modified="1899-12-30" icon="11" href="Topic28">
+        <caption translate="true">Shape : 22</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266987" build="ALL" modified="1899-12-30" icon="11" href="Topic29">
+        <caption translate="true">Shape : 23</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266988" build="ALL" modified="1899-12-30" icon="11" href="Topic30">
+        <caption translate="true">Shape : 24</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266989" build="ALL" modified="1899-12-30" icon="11" href="Topic31">
+        <caption translate="true">Shape : 25</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266990" build="ALL" modified="1899-12-30" icon="11" href="Topic32">
+        <caption translate="true">Shape : 26</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266991" build="ALL" modified="1899-12-30" icon="11" href="Topic33">
+        <caption translate="true">Shape : 27</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266992" build="ALL" modified="1899-12-30" icon="11" href="Topic34">
+        <caption translate="true">Shape : 28</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266993" build="ALL" modified="1899-12-30" icon="11" href="Topic35">
+        <caption translate="true">Shape : 29</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266994" build="ALL" modified="1899-12-30" icon="11" href="Topic36">
+        <caption translate="true">Shape : 30</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266995" build="ALL" modified="1899-12-30" icon="11" href="Topic37">
+        <caption translate="true">Shape : 31</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266996" build="ALL" modified="1899-12-30" icon="11" href="Topic38">
+        <caption translate="true">Shape : 32</caption>
+      </topicref>
+      <topicref type="topic" id="446809441266997" build="ALL" modified="1899-12-30" icon="11" href="Topic36">
+        <caption translate="true">Shape : 33</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+</map>

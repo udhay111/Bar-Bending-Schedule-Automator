@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1424 1423" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:16;">
+    <g transform="matrix(1,0,0,1,-1782,-3587)">
+        <g id="Rebar_Shape_02" transform="matrix(0.785937,0,0,1.15149,-2174.53,3194.72)">
+            <rect x="5035.21" y="341.093" width="1809.59" height="1235.12" style="fill:none;"/>
+            <g id="Rebar_Shape_021" serif:id="Rebar_Shape_02" transform="matrix(1.27237,0,0,0.86844,2973.68,-1230.57)">
+                <g transform="matrix(5.55237,0,0,-5.55393,1125.79,3789.93)">
+                    <rect x="89.126" y="100.499" width="256" height="256" style="fill:white;fill-opacity:0;"/>
+                </g>
+                <g transform="matrix(5.55237,0,0,-5.55393,1371.78,3539.65)">
+                    <path d="M96,171.213L271.864,171.213" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:7.12px;"/>
+                </g>
+                <g transform="matrix(0.444402,-5.53612,-5.53456,-0.444527,2152.02,3769.86)">
+                    <path d="M208.416,61.401C208.416,76.98 219.927,89.61 234.126,89.61C248.325,89.61 259.836,76.98 259.836,61.401" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:7.12px;"/>
+                </g>
+                <g transform="matrix(5.55399,0,0,5.55556,0.600884,-6.31594e-13)">
+                    <text x="384.576px" y="560.572px" style="font-family:'SegoeUI', 'Segoe UI', sans-serif;font-size:60.982px;fill:rgb(255,0,0);">0<tspan x="419.641px " y="560.572px ">2</tspan></text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

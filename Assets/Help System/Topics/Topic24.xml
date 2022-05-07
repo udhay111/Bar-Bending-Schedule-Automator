@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2022-04-29T20:43:07.967+05:30" lasteditedby="GRUS" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Shape : 19</title>
+  <body>
+    <header>
+      <para styleclass="Heading1_dth1" style="text-align:left; text-indent:-6px; margin-top:0px; margin-right:0px; margin-bottom:2px; margin-left:19px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Heading1">Rebar Shape : 19</text></para>
+    </header>
+    <para styleclass="Normal_bannerparthead" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table rowcount="1" colcount="1" style="width:100%; cell-padding:1px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:#99ccff; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><anchor id="hdr" styleclass="Normal text" style="font-family:&apos;Arial Unicode MS&apos;; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;"></anchor><text styleclass="runninghead" style="font-family:Verdana; font-size:8pt; font-weight:normal; font-style:italic; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">BBS_Help</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="line-height:1.00; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:5px; margin-bottom:5px; line-height:1.00; tabstops:none;"><table styleclass="Normal" rowcount="2" colcount="2">
+      <tr style="vertical-align:middle">
+        <td style="width:637px;">
+          <para styleclass="Heading1" style="text-align:center;"><text style="font-family:&apos;Times New Roman&apos;; font-size:28pt;">Method of Measurement of &#160;Bending Dimensions</text></para>
+        </td>
+        <td style="width:401px;">
+          <para styleclass="Heading1" style="text-align:center;"><text style="font-family:&apos;Times New Roman&apos;; font-size:22pt;">Total Length of Bar (L) Measured Along centre line</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:637px;">
+          <para styleclass="Normal" style="text-align:center;"><image src="Rebar_Shape_01.png" scale="100.00%" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="width:401px;">
+          <para styleclass="Normal" style="text-align:center;"></para>
+          <para styleclass="Normal" style="text-align:center;"></para>
+          <para styleclass="Normal" style="text-align:center;"><text style="font-family:&apos;Times New Roman&apos;; font-size:28pt; font-style:italic;"> l</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"><line style="height:2px;" /></para>
+    <para styleclass="Normal" style="margin-top:5px; margin-bottom:5px; line-height:1.00; tabstops:none;"><text style="font-family:Verdana; font-size:8pt; font-style:italic; vertical-align:baseline;"> &#160; &#160; Copyright © 2022 </text><text style="font-family:Verdana; font-size:8pt; font-style:italic; vertical-align:baseline; color:#0000ff;">GRUS</text><text style="font-family:Verdana; font-size:8pt; font-style:italic; vertical-align:baseline;">. All Rights Reserved.</text></para>
+  </body>
+</topic>

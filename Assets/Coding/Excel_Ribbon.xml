@@ -1,0 +1,76 @@
+﻿<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon startFromScratch="false">
+		<tabs>
+			<tab id="RebarTab" label="Rebar Schedule">				
+				<group id="DocumentGroup" label="DocumentSetup">
+						<menu id="ocumentFormattingMenu" label="Document Formatting" image="Document_Setup" size="large" 
+						screentip="Calculate the Area from Selected Cells"
+						supertip="Calculate the Area from Selected Cells">
+						<button id="Button_BBSF" label="HeaderInfo" imageMso="HappyFace"
+							onAction="BarBedingScheduleFormatting" />
+						<button id="Button_CSF" label="Calculation Sheet" imageMso="HappyFace"
+							onAction="CalculationSheetFormatting" />
+					</menu>
+				</group>
+				    <group id="ClearFormatting" label="Clear DropDown">
+					<button id="Button_CF" label="Clear Data Validation" imageMso="HappyFace"  size="large" 
+							onAction="ClearDatavalidation" />
+				</group>
+				<group id="ShapeGroup" label="Rebar Shapes">
+					<button id="Button_Shape_01" label="Shape 01" showLabel="false" imageMso="HappyFace" onAction="Shape01" />
+					<button id="Button_Shape_02" label="Shape 02" showLabel="false" imageMso="HappyFace" onAction="Shape02 "/>
+					<button id="Button_Shape_03" label="Shape 03" showLabel="false" imageMso="HappyFace" onAction="Shape03 "/>
+					<button id="Button_Shape_04" label="Shape 04" showLabel="false" imageMso="HappyFace" onAction="Shape04 "/>
+					<button id="Button_Shape_05" label="Shape 05" showLabel="false" imageMso="HappyFace" onAction="Shape05 "/>
+					<button id="Button_Shape_06" label="Shape 06" showLabel="false" imageMso="HappyFace" onAction="Shape06 "/>
+					<button id="Button_Shape_07" label="Shape 07" showLabel="false" imageMso="HappyFace" onAction="Shape07 "/>
+					<button id="Button_Shape_08" label="Shape 08" showLabel="false" imageMso="HappyFace" onAction="Shape08 "/>
+					<button id="Button_Shape_09" label="Shape 09" showLabel="false" imageMso="HappyFace" onAction="Shape09 "/>
+					<button id="Button_Shape_10" label="Shape 10" showLabel="false" imageMso="HappyFace" onAction="Shape10 "/>
+					<button id="Button_Shape_11" label="Shape 11" showLabel="false" imageMso="HappyFace" onAction="Shape11 "/>
+					<button id="Button_Shape_12" label="Shape 12" showLabel="false" imageMso="HappyFace" onAction="Shape12 "/>
+					<button id="Button_Shape_13" label="Shape 13" showLabel="false" imageMso="HappyFace" onAction="Shape13 "/>
+					<button id="Button_Shape_14" label="Shape 14" showLabel="false" imageMso="HappyFace" onAction="Shape14 "/>
+					<button id="Button_Shape_15" label="Shape 15" showLabel="false" imageMso="HappyFace" onAction="Shape15 "/>
+					<button id="Button_Shape_16" label="Shape 16" showLabel="false" imageMso="HappyFace" onAction="Shape16 "/>
+					<button id="Button_Shape_17" label="Shape 17" showLabel="false" imageMso="HappyFace" onAction="Shape17 "/>
+					<button id="Button_Shape_18" label="Shape 18" showLabel="false" imageMso="HappyFace" onAction="Shape18 "/>
+					<button id="Button_Shape_19" label="Shape 19" showLabel="false" imageMso="HappyFace" onAction="Shape19 "/>
+					<button id="Button_Shape_20" label="Shape 20" showLabel="false" imageMso="HappyFace" onAction="Shape20 "/>
+					<button id="Button_Shape_21" label="Shape 21" showLabel="false" imageMso="HappyFace" onAction="Shape21 "/>
+					<button id="Button_Shape_22" label="Shape 22" showLabel="false" imageMso="HappyFace" onAction="Shape22 "/>
+					<button id="Button_Shape_23" label="Shape 23" showLabel="false" imageMso="HappyFace" onAction="Shape23 "/>
+					<button id="Button_Shape_24" label="Shape 24" showLabel="false" imageMso="HappyFace" onAction="Shape24 "/>
+					<button id="Button_Shape_25" label="Shape 25" showLabel="false" imageMso="HappyFace" onAction="Shape25 "/>
+					<button id="Button_Shape_26" label="Shape 26" showLabel="false" imageMso="HappyFace" onAction="Shape26 "/>
+					<button id="Button_Shape_27" label="Shape 27" showLabel="false" imageMso="HappyFace" onAction="Shape27 "/>
+					<button id="Button_Shape_28" label="Shape 28" showLabel="false" imageMso="HappyFace" onAction="Shape28 "/>
+					<button id="Button_Shape_29" label="Shape 29" showLabel="false" imageMso="HappyFace" onAction="Shape29 "/>
+					<button id="Button_Shape_30" label="Shape 30" showLabel="false" imageMso="HappyFace" onAction="Shape30 "/>
+					<button id="Button_Shape_31" label="Shape 31" showLabel="false" imageMso="HappyFace" onAction="Shape31 "/>
+					<button id="Button_Shape_32" label="Shape 32" showLabel="false" imageMso="HappyFace" onAction="Shape32 "/>
+					<button id="Button_Shape_33" label="Shape 33" showLabel="false" imageMso="HappyFace" onAction="Shape33 "/>
+					<button id="Button_Shape_34" label="Shape 34" showLabel="false" imageMso="HappyFace" onAction="Shape34 "/>
+					<button id="Button_Shape_35" label="Shape 35" showLabel="false" imageMso="HappyFace" onAction="Shape35 "/>
+					<button id="Button_Shape_36" label="Shape 36" showLabel="false" imageMso="HappyFace" onAction="Shape36 "/>
+					<button id="Button_Shape_37" label="Shape 37" showLabel="false" imageMso="HappyFace" onAction="Shape37 "/>
+					<button id="Button_Shape_38" label="Shape 38" showLabel="false" imageMso="HappyFace" onAction="Shape38 "/>
+					<button id="Button_Shape_39" label="Shape 39" showLabel="false" imageMso="HappyFace" onAction="Shape39 "/>
+					<button id="Button_Shape_40" label="Shape 40" showLabel="false" imageMso="HappyFace" onAction="Shape40 "/>
+					<button id="Button_Shape_41" label="Shape 41" showLabel="false" imageMso="HappyFace" onAction="Shape41 "/>
+					<button id="Button_Shape_42" label="Shape 42" showLabel="false" imageMso="HappyFace" onAction="Shape42 "/>
+					<button id="Button_Shape_43" label="Shape 43" showLabel="false" imageMso="HappyFace" onAction="Shape43 "/>
+					<button id="Button_Shape_44" label="Shape 44" showLabel="false" imageMso="HappyFace" onAction="Shape44 "/>
+					<button id="Button_Shape_45" label="Shape 45" showLabel="false" imageMso="HappyFace" onAction="Shape45 "/>
+					<button id="Button_Shape_46" label="Shape 46" showLabel="false" imageMso="HappyFace" onAction="Shape46 "/>
+					<button id="Button_Shape_47" label="Shape 47" showLabel="false" imageMso="HappyFace" onAction="Shape47 "/>
+					<button id="Button_Shape_48" label="Shape 48" showLabel="false" imageMso="HappyFace" onAction="Shape48 "/>
+					<button id="Button_Shape_49" label="Shape 49" showLabel="false" imageMso="HappyFace" onAction="Shape49 "/>
+					<button id="Button_Shape_50" label="Shape 50" showLabel="false" imageMso="HappyFace" onAction="Shape50 "/>
+					<button id="Button_Shape_51" label="Shape 51" showLabel="false" imageMso="HappyFace" onAction="Shape51 "/>
+					<button id="Button_Shape_52" label="Shape 52" showLabel="false" imageMso="HappyFace" onAction="Shape52 "/>
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>

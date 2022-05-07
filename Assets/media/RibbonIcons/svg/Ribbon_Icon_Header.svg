@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1423 1423" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:16;">
+    <g transform="matrix(1,0,0,1,-3398,0)">
+        <g id="Ribbon_Icon_Header" transform="matrix(0.785937,0,0,1.15149,-558.789,-392.765)">
+            <rect x="5035.21" y="341.093" width="1809.59" height="1235.12" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="5035.21" y="341.093" width="1809.59" height="1235.12"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g id="Header" transform="matrix(1.39757,0,0,0.953894,-709.518,228.566)">
+                    <g transform="matrix(5.55237,0,0,-5.55393,686.288,-1737.68)">
+                        <path d="M652.765,-342.38L762.342,-342.38" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;"/>
+                    </g>
+                    <g transform="matrix(4.04037,3.80952,-3.80845,4.0415,788.82,-1338.92)">
+                        <path d="M724.985,-312.538L811.999,-312.538" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;"/>
+                    </g>
+                    <g transform="matrix(0,5.55393,-5.55237,0,4163.46,-3476.04)">
+                        <path d="M711.997,-196.5L862.737,-196.5" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;"/>
+                    </g>
+                    <g transform="matrix(-5.55237,0,0,-5.55393,8823.23,698.194)">
+                        <path d="M652.765,-121.13L812.791,-121.13" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;"/>
+                    </g>
+                    <g transform="matrix(0,-5.55393,5.55237,0,5607.78,4392.63)">
+                        <path d="M554.063,-243.678L751.467,-243.678" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;"/>
+                    </g>
+                    <g transform="matrix(3.92612,3.92722,-3.92612,3.92722,804.369,-871.264)">
+                        <path d="M717.817,-161.02C721.723,-157.115 728.053,-157.115 731.959,-161.02" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+                    </g>
+                    <g transform="matrix(3.93648,-3.91683,3.91573,3.93759,3003.67,4816.54)">
+                        <path d="M717.817,-161.02C721.723,-157.115 728.053,-157.115 731.959,-161.02" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+                    </g>
+                    <g transform="matrix(-3.95252,3.90064,-3.89955,-3.95363,6519.96,-3272.68)">
+                        <path d="M717.817,-161.02C721.723,-157.115 728.053,-157.115 731.959,-161.02" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+                    </g>
+                    <g transform="matrix(0,5.55393,-5.55237,0,3219.09,-3748.89)">
+                        <path d="M703.771,-304.233L766.315,-304.233" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;"/>
+                    </g>
+                    <g transform="matrix(-5.55237,0,0,-5.55393,9337.72,-1040.61)">
+                        <path d="M734.433,-275.821L798.362,-275.821" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:5.01px;"/>
+                    </g>
+                    <g transform="matrix(5.55237,0,0,-5.55393,685.915,-1318.51)">
+                        <rect x="653.148" y="-314.549" width="96.323" height="27.418" style="fill:rgb(62,44,233);fill-opacity:0.5;stroke:black;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
